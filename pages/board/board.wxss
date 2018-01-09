@@ -31,7 +31,7 @@
 	padding: 30rpx;
 	display: flex;
 	background-color: #FFF8DC;
-	cursor: pointer; /*ÒÆ¶¯¶ËÕ¹Ê¾£ºÔªËØµã»÷Ê±¸ßÁÁ*/
+	cursor: pointer; /*ç§»åŠ¨ç«¯å±•ç¤ºï¼šå…ƒç´ ç‚¹å‡»æ—¶é«˜äº®*/
 }
 .board text {
 	flex: 1;
