@@ -28,4 +28,5 @@ swiper-item image {
   color: #fff;
   border: 5rpx solid #fff;
   font-size: 40rpx;
+  cursor: pointer;
 }
